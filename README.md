@@ -27,7 +27,7 @@ CREATE TABLE tasks (
 ## 📷 Captures d’écran
 
 ### Page d’accueil
-![Accueil](screenshots/home.png)
+![Accueil](screenshots/capture 1.png)
 
 ### Ajout d’une tâche
 ![Ajout](screenshots/add_task.png)
