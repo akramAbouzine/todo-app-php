@@ -24,3 +24,13 @@ CREATE TABLE tasks (
   created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
   updated_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP
 );
+## 📷 Captures d’écran
+
+### Page d’accueil
+![Accueil](screenshots/home.png)
+
+### Ajout d’une tâche
+![Ajout](screenshots/add_task.png)
+
+### Liste des tâches
+![Liste](screenshots/list_tasks.png)
