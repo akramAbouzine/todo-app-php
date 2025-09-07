@@ -27,7 +27,16 @@ CREATE TABLE tasks (
 ## 📷 Captures d’écran
 
 ### Page d’accueil
-![Accueil](screenshots/capture 1.png)
+![Capture 1](screenshots/capture%201.png)
+
+### Ajout d’une tâche
+![Capture 2](screenshots/capture%202.png)
+
+### Liste des tâches
+![Capture 3](screenshots/capture%203.png)
+
+### Base de données (PhpMyAdmin)
+![Capture 4](screenshots/capture%204.png)
 
 ### Ajout d’une tâche
 ![Ajout](screenshots/add_task.png)
